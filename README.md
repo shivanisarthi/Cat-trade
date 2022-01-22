@@ -12,4 +12,4 @@ Using HTML-CSS and JavaScript with a API : 'https://thatcopy.pw/catapi/rest/'
 
 Example:
 
-<img src="https://raw.githubusercontent.com/leanluizz/Cat-trade/principal/imagens/PHOTO-LANDING-PAGE.png" alt="PHOTO" width="200vw">
+<img src="https://raw.githubusercontent.com/leanluizz/Cat-trade/principal/imagens/PHOTO-LANDING-PAGE.png" alt="PHOTO" width="400vw">
