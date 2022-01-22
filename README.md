@@ -1,6 +1,6 @@
 # Cat-trade
 
-<h2> 🐱 -This website exchange cat images ever what click in button "CHANGE CAT" usin HTML-CSS and JavaScript with API</h2>
+<h2> 🐱 -This website exchange cat images by clicking button "CHANGE CAT" using HTML-CSS and JavaScript with API</h2>
 
 🔶 - HTML
 
