@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap');
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Quicksand', sans-serif;
+	height: 100vh;
+	margin: 0;
+	background-color: rgb(255, 208, 48);
+}
+.flex-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cat-image-title{
+    width: 6vw;
+    margin: auto;
+}
+#cat{
+	width: 20vw;
+	border-radius: 30px;
+}
+h1{
+    font-size: 3vw;
+    margin: auto;
+}
+
+main {
+	text-align: center;
+}
+
+button {
+    border:2px solid black;
+    box-shadow: black 6px 6px;
+    border-radius: 20px 20px 20px 20px;
+	font-size: 2vw;
+	font-weight: 500;
+	padding: 16px;
+	background:rgb(255, 208, 48);
+	color: rgb(0, 0, 0);
+	margin: 20px 0;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+    text-align: center;
+}
+
+button:hover {
+	background-image:url("imagens/gif-gato.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(0, 0, 0, 0);
+}
